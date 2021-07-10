@@ -1,1 +1,1 @@
-# Script-for-multi-purpose-humanoid-robot
+We gonna reach the target by make 2 robots fighting through the sharp arm which made by the Fantastic mechanical engineer ..And operated by the Fantastic electrical engineer ..Then It is programmed and controlled by Fantastic engineers in IOT &AI ..Finally all these processes are followed-up andmanaged by Fantastic industrial engineers in the team
