@@ -1,0 +1,1 @@
+# Script-for-multi-purpose-humanoid-robot
